@@ -27,4 +27,8 @@
     <string name="exit">Exit</string>
     <string name="play_again">Play Again</string>
     <string name="wrong_guess">Wrong Guess!</string>
+    <string name="show_history">History</string>
+    <string name="back">Back</string>
+    <string name="correct_guess_history_title">Correct Guesses</string>
+    <string name="correct_guess_history_empty">No correct guesses saved yet.</string>
 </resources>
